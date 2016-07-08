@@ -1,19 +1,8 @@
----
-title: 'Peer Graded Assignment: Course Project 2'
-author: "Krysek"
-date: "8 July 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Peer Graded Assignment: Course Project 2
 Source: https://www.coursera.org/learn/exploratory-data-analysis/peer/b5Ecl/course-project-2 (Status: 8 July 2016)
 
 ***
-Important Information
+__Important Information__
 It is especially important to submit this assignment before the deadline, July 10, 11:59 PM PDT, because it must be graded by others. If you submit late, there may not be enough classmates around to review your work. This makes it difficult - and in some cases, impossible - to produce a grade. Submit on time to avoid these risks.
 ***
 
